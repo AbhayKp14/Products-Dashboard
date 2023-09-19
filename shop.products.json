@@ -1,0 +1,330 @@
+[{
+  "_id": {
+    "$oid": "65099b29e01f60817dcc8e78"
+  },
+  "Category": "Electronics",
+  "Type": "Mobile Phones",
+  "Company": "Samsung",
+  "Model Name": "Samsung Galaxy F34 5G",
+  "Price": "Rs.9889",
+  "Quantity": "15"
+},
+{
+  "_id": {
+    "$oid": "65099e9122d2d5614cdca65d"
+  },
+  "Category": "Electronics",
+  "Type": "Mobile Phones",
+  "Company": "Samsung",
+  "Model Name": "Samsung Galaxy Z Fold5",
+  "Price": "Rs.1,54,999",
+  "Quantity": "19"
+},
+{
+  "_id": {
+    "$oid": "65099eac22d2d5614cdca65e"
+  },
+  "Category": "Electronics",
+  "Type": "Mobile Phones",
+  "Company": "Samsung",
+  "Model Name": "Samsung Galaxy Z Flip5",
+  "Price": "Rs.99,999",
+  "Quantity": "25"
+},
+{
+  "_id": {
+    "$oid": "65099ec822d2d5614cdca65f"
+  },
+  "Category": "Electronics",
+  "Type": "Mobile Phones",
+  "Company": "Samsung",
+  "Model Name": "Samsung Galaxy S21 FE 5G",
+  "Price": "Rs.48999",
+  "Quantity": "37"
+},
+{
+  "_id": {
+    "$oid": "65099edd22d2d5614cdca660"
+  },
+  "Category": "Electronics",
+  "Type": "Mobile Phones",
+  "Company": "Samsung",
+  "Model Name": "Samsung Galaxy M34 5G",
+  "Price": "Rs.18999",
+  "Quantity": "55"
+},
+{
+  "_id": {
+    "$oid": "65099ef522d2d5614cdca661"
+  },
+  "Category": "Electronics",
+  "Type": "Mobile Phones",
+  "Company": "Samsung",
+  "Model Name": "Samsung Galaxy F54 5G",
+  "Price": "Rs.29999",
+  "Quantity": "62"
+},
+{
+  "_id": {
+    "$oid": "65099f3b22d2d5614cdca662"
+  },
+  "Category": "Electronics",
+  "Type": "Mobile Phones",
+  "Company": "Samsung",
+  "Model Name": "Samsung Galaxy A14 4G",
+  "Price": "Rs.13999",
+  "Quantity": "10"
+},
+{
+  "_id": {
+    "$oid": "65099f6e22d2d5614cdca663"
+  },
+  "Category": "Electronics",
+  "Type": "Mobile Phones",
+  "Company": "Apple",
+  "Model Name": "Apple iPhone 15 Pro",
+  "Price": "Rs.1,34,990",
+  "Quantity": "5"
+},
+{
+  "_id": {
+    "$oid": "65099f8422d2d5614cdca664"
+  },
+  "Category": "Electronics",
+  "Type": "Mobile Phones",
+  "Company": "Apple",
+  "Model Name": "Apple iPhone 15 Pro Max",
+  "Price": "Rs.1,59,990",
+  "Quantity": "2"
+},
+{
+  "_id": {
+    "$oid": "65099f9722d2d5614cdca665"
+  },
+  "Category": "Electronics",
+  "Type": "Mobile Phones",
+  "Company": "Apple",
+  "Model Name": "Apple iPhone 15",
+  "Price": "Rs.79,900",
+  "Quantity": "14"
+},
+{
+  "_id": {
+    "$oid": "65099fb022d2d5614cdca666"
+  },
+  "Category": "Electronics",
+  "Type": "Mobile Phones",
+  "Company": "Apple",
+  "Model Name": "Apple iPhone 13 Pro",
+  "Price": "Rs.1,19,900",
+  "Quantity": "14"
+},
+{
+  "_id": {
+    "$oid": "65099fc722d2d5614cdca667"
+  },
+  "Category": "Electronics",
+  "Type": "Mobile Phones",
+  "Company": "Apple",
+  "Model Name": "Apple iPhone SE",
+  "Price": "Rs.31,999",
+  "Quantity": "9"
+},
+{
+  "_id": {
+    "$oid": "6509a01022d2d5614cdca668"
+  },
+  "Category": "Electronics",
+  "Type": "Mobile Phones",
+  "Company": "Nokia",
+  "Model Name": "Nokia G42 5G",
+  "Price": "Rs.12,599",
+  "Quantity": "5"
+},
+{
+  "_id": {
+    "$oid": "6509a02622d2d5614cdca669"
+  },
+  "Category": "Electronics",
+  "Type": "Mobile Phones",
+  "Company": "Nokia",
+  "Model Name": "Nokia 130M",
+  "Price": "Rs.1,849",
+  "Quantity": "6"
+},
+{
+  "_id": {
+    "$oid": "6509a03a22d2d5614cdca66a"
+  },
+  "Category": "Electronics",
+  "Type": "Mobile Phones",
+  "Company": "Nokia",
+  "Model Name": "Nokia 150",
+  "Price": "Rs.2,699",
+  "Quantity": "1"
+},
+{
+  "_id": {
+    "$oid": "6509a0b822d2d5614cdca66c"
+  },
+  "Category": "Electronics",
+  "Type": "Headphones",
+  "Company": "Boat",
+  "Model Name": "b1",
+  "Price": "Rs.595",
+  "Quantity": "5"
+},
+{
+  "_id": {
+    "$oid": "6509a0c522d2d5614cdca66d"
+  },
+  "Category": "Electronics",
+  "Type": "Headphones",
+  "Company": "Boat",
+  "Model Name": "b5",
+  "Price": "Rs.595",
+  "Quantity": "9"
+},
+{
+  "_id": {
+    "$oid": "6509a0d222d2d5614cdca66e"
+  },
+  "Category": "Electronics",
+  "Type": "Headphones",
+  "Company": "Boat",
+  "Model Name": "b71",
+  "Price": "Rs.656",
+  "Quantity": "1"
+},
+{
+  "_id": {
+    "$oid": "6509a0e322d2d5614cdca66f"
+  },
+  "Category": "Electronics",
+  "Type": "Headphones",
+  "Company": "Mi",
+  "Model Name": "M67",
+  "Price": "Rs.656",
+  "Quantity": "5"
+},
+{
+  "_id": {
+    "$oid": "6509a0f322d2d5614cdca670"
+  },
+  "Category": "Electronics",
+  "Type": "Headphones",
+  "Company": "Mi",
+  "Model Name": "M99",
+  "Price": "Rs.856",
+  "Quantity": "25"
+},
+{
+  "_id": {
+    "$oid": "6509a11122d2d5614cdca671"
+  },
+  "Category": "Electronics",
+  "Type": "Chargers",
+  "Company": "Samsung",
+  "Model Name": "S245",
+  "Price": "Rs.856",
+  "Quantity": "25"
+},
+{
+  "_id": {
+    "$oid": "6509a13022d2d5614cdca672"
+  },
+  "Category": "Electronics",
+  "Type": "Chargers",
+  "Company": "Samsung",
+  "Model Name": "S20",
+  "Price": "Rs.856",
+  "Quantity": "25"
+},
+{
+  "_id": {
+    "$oid": "6509a17722d2d5614cdca673"
+  },
+  "Category": "Electronics",
+  "Type": "Chargers",
+  "Company": "Intex",
+  "Model Name": "M99",
+  "Price": "Rs.259",
+  "Quantity": "55"
+},
+{
+  "_id": {
+    "$oid": "6509a1bd22d2d5614cdca676"
+  },
+  "Category": "Electronics",
+  "Type": "Power Bank",
+  "Company": "Realme",
+  "Model Name": "RL51",
+  "Price": "Rs.259",
+  "Quantity": "54"
+},
+{
+  "_id": {
+    "$oid": "6509a1e722d2d5614cdca677"
+  },
+  "Category": "Electronics",
+  "Type": "Power Bank",
+  "Company": "Lava",
+  "Model Name": "L01",
+  "Price": "Rs.295",
+  "Quantity": "102"
+},
+{
+  "_id": {
+    "$oid": "6509a24222d2d5614cdca679"
+  },
+  "Category": "Electronics",
+  "Type": "Back Cover",
+  "Company": "Foolded",
+  "Model Name": "F3",
+  "Price": "Rs.92",
+  "Quantity": "102"
+},
+{
+  "_id": {
+    "$oid": "6509a25f22d2d5614cdca67a"
+  },
+  "Category": "Electronics",
+  "Type": "Adapter",
+  "Company": "LYF",
+  "Model Name": "LYf25",
+  "Price": "Rs.159",
+  "Quantity": "12"
+},
+{
+  "_id": {
+    "$oid": "6509a27222d2d5614cdca67b"
+  },
+  "Category": "Electronics",
+  "Type": "Adapter",
+  "Company": "LYF",
+  "Model Name": "LYF58",
+  "Price": "Rs.7889",
+  "Quantity": "1"
+},
+{
+  "_id": {
+    "$oid": "6509a28122d2d5614cdca67c"
+  },
+  "Category": "Electronics",
+  "Type": "Adapter",
+  "Company": "LYF",
+  "Model Name": "LYF98",
+  "Price": "Rs.788",
+  "Quantity": "12"
+},
+{
+  "_id": {
+    "$oid": "6509a2a022d2d5614cdca67d"
+  },
+  "Category": "Electronics",
+  "Type": "Adapter",
+  "Company": "LYF",
+  "Model Name": "LYF45",
+  "Price": "Rs.788",
+  "Quantity": "16"
+}]
